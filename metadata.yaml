@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3319
     wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Horne
 description: This volume covers A.D. 1162-1300.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14260#The-Great-Events-by-Famous-Historians-Volume-06--13--From-Barbarossa-to-Dante-
 gutenberg_issued: '2004-12-05'
 gutenberg_type: Text
 identifiers:
